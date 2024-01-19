@@ -9,7 +9,7 @@
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas024&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-- 🔭 Em busca de novas oportunidades para crescer
+- 🔭 Estudante de programação iniciante
 - 🌱 Atualmente Estudando Python e JavaScript
 - 📫 Contate me no E-mail: viniciusfreitassilva1999@gmail.com
 
