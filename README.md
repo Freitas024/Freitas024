@@ -9,8 +9,8 @@
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas024&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-- 🔭 Estudante de programação iniciante
-- 🌱 Atualmente Estudando Python e JavaScript
+- 🔭 Estudante de programação com foco em Front-end.
+- 🌱 Desenvolvendo telas bonitas e funcionais. 
 - 📫 Contate me no E-mail: viniciusfreitassilva1999@gmail.com
 
   <div style="display: inline_block"><br>
