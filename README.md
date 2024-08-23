@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Freitas024" />
 </a>
 <a href="https://github.com/Freitas024/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas024&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas024&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 - 🔭 Estudante de programação com foco em Front-end.
