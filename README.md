@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vinicius Freitas 👋
 
-<h2>Desenvolvedor de software</h2>
+<h2>Desenvolvedor de software | UX/UI Designer</h2>
 
 <a href="https://github.com/Freitas024/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Freitas024" />
