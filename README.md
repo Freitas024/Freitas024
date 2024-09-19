@@ -1,6 +1,6 @@
-### Olá! Eu sou Vinicius Freitas 👋
+### Olá! Me Chamo Vinicius Freitas 👋
 
-<h2>Desenvolvedor de software | UX Design | UI Design</h2>
+<h2>Desenvolvedor de software | UX/UI Design</h2>
 <br>
 <div style="display: inline_block">
     <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,15 +15,12 @@
     <li>🌱 Estudando atualmente: Node.js / Three.js + WEBGL</li>
     <li>📫 E-mail: Viniciusfreitassilva1999@gmail.com</li>
 </ul>
+<br>
 <a href="https://github.com/Freitas024/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Freitas024" />
 </a>
 <a href="https://github.com/Freitas024/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas024&layout=compact&langs_count=8&card_width=300" />
 </a>
-<br>
-- 🔭 Estudante de programação com foco em Front-end.
-- 🌱 Desenvolvendo telas bonitas e funcionais. 
-- 📫 Contate me no E-mail: viniciusfreitassilva1999@gmail.com
 
   
