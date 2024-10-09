@@ -23,5 +23,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas024&layout=compact&langs_count=8&card_width=300" />
 </a>
 
-  
+##Animação de cobrinha:
 ![Snake animation](https://github.com/Freitas024/Freitas024/blob/output/snake.svg)
