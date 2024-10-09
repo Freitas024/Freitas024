@@ -24,3 +24,4 @@
 </a>
 
   
+![Snake animation](https://github.com/Freitas024/Freitas024/blob/output/snake.svg)
