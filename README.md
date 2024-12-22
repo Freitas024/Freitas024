@@ -1,6 +1,6 @@
 ### Olá! Me Chamo Vinicius Freitas 👋
 
-<h2>Desenvolvedor de software | UX/UI Design</h2>
+<h2>Desenvolvedor Front-end / UX|UI Design</h2>
 <br>
 <div style="display: inline_block">
     <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,9 +11,9 @@
 </div>
 <br>
 <ul>
-    <li>🔭 Estudante de ADS - Análise em desenvolvimento de Sistemas</li>
+    <li>🔭 Análise e desenvolvimento de software</li>
     <li>🔭 Desenvolvedor de software - Foco em Front-end e UX|UI Design</li>
-    <li>🌱 Estudando atualmente: Node.js / Three.js + WEBGL</li>
+    <li>🌱 Estudando Node.js</li>
     <li>📫 E-mail: Viniciusfreitassilva1999@gmail.com</li>
 </ul>
 <br>
@@ -23,6 +23,3 @@
 <a href="https://github.com/Freitas024/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas024&layout=compact&langs_count=8&card_width=300" />
 </a>
-
-##Animação de cobrinha:
-![Snake animation](https://github.com/Freitas024/Freitas024/blob/output/snake.svg)
