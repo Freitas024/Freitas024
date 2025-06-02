@@ -12,9 +12,8 @@
 </div>
 <br>
 <ul>
-    <li>🔭 Análise e desenvolvimento de software</li>
-    <li>🔭 Desenvolvedor de software - Foco em Front-end e UX|UI Design</li>
-    <li>🌱 Estudando Node.js</li>
+    <li>🔭 Análise e desenvolvimento de Sistema</li>
+    <li>🔭 Apaixonado por tecnologia</li>
     <li>📫 E-mail: Viniciusfreitassilva1999@gmail.com</li>
 </ul>
 <br>
