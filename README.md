@@ -10,13 +10,9 @@
     <img align="center" alt="Vini-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Vini-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img align="center" alt="vini-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="vini-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
 <br>
-<ul>
-    <li>🔭 Análise e desenvolvimento de Sistema</li>
-    <li>🔭 Apaixonado por tecnologia</li>
-    <li>📫 E-mail: Viniciusfreitassilva1999@gmail.com</li>
-</ul>
 <br>
 <a href="https://github.com/Freitas024/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Freitas024" />
