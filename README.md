@@ -1,7 +1,7 @@
 <!-- Banner ou título -->
 <h1 align="start">Olá! Me chamo Vinicius Freitas 👋</h1>
 
-<h3 align="start">Desenvolvedor de Software | UI Designer </h3>
+<h3 align="start">Desenvolvedor de Software | Fullstack | UI Designer </h3>
 
 ---
 
