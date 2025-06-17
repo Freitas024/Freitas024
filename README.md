@@ -13,17 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Freitas024">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitas024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas024&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px;">
@@ -35,6 +24,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Freitas024">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitas024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas024&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 
 ### 🌐 Onde me encontrar
