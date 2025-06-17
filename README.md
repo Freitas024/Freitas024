@@ -1,11 +1,11 @@
 <!-- Banner ou título -->
-<h1 align="center">Olá! Me chamo Vinicius Freitas 👋</h1>
+<h1 align="start">Olá! Me chamo Vinicius Freitas 👋</h1>
 
-<h3 align="center">Desenvolvedor de Software | UI Designer </h3>
+<h3 align="start">Desenvolvedor de Software | UI Designer </h3>
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="center" style="display: flex; justify-content: center; gap: 100px;">
+<div align="center" style="display: flex; justify-content: center; gap: 50px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
