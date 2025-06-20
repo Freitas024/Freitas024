@@ -8,9 +8,8 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🧠 Explorando: Spring Boot, React Native.
-- 🌍 Sonho: Trabalhar como **nômade digital** viajando o mundo
-
+- 🧠 Explorando: Spring Boot, Flutter.
+- 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
