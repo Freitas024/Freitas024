@@ -9,7 +9,6 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🧠 Explorando: Spring Boot, Flutter.
-- 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
