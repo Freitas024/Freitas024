@@ -8,7 +8,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🧠 Explorando: Spring Boot, Flutter.
+- 🧠 Explorando: Spring Boot, React Native.
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
