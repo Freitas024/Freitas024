@@ -8,7 +8,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🧠 Explorando: Spring Boot, React Native.
+- 🧠 Explorando: Node.js & Next.js.
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
